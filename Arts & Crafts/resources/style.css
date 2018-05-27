@@ -1,0 +1,21 @@
+h1, h2, h3, p {font-family: Helvetica;}
+.title {
+  font-size: 100px; font-weight: bold; color: khaki; text-align: center; background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+h2 {
+  font-size: 32px; font-weight: bold; color: white;
+}
+.brushes-banner {
+  background-color: mediumspringgreen;
+}
+.blue-letters {
+  font-weight: bold; color: blue;
+}
+<!-- I dont recall changing the color of text in this way in the course, but this is the way that I found to do so. If there is another way then please let me know. -->
+
+.frames-banner {
+  background-color: lightcoral;
+}
+.paint-banner {
+  background-color: skyblue;
+}
